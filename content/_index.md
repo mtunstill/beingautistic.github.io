@@ -1,6 +1,6 @@
 ---
-title: My Site
-toc: false
+title: BeingAutistic
+toc: true
 ---
 
 This is the landing page.
