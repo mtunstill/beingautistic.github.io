@@ -47,8 +47,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: assets/images/ba-logo.svg
-      dark: assets/images/ba-logo-dark.svg
+      path: assets/theme/ba-logo.svg
+      dark: assets/theme/ba-logo-dark.svg
       link: /
       width: 50
       height: 50
