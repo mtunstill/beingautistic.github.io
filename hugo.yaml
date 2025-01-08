@@ -45,7 +45,13 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: assets/images/ba-logo.svg
+      dark: assets/images/ba-logo-dark.svg
+      link: /
+      width: 50
+      height: 50
 
   footer:
     displayCopyright: true
