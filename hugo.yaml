@@ -33,9 +33,9 @@ menu:
       url: "https://github.com/mtunstill"
       params:
         icon: github
-    - name: Twitter
+    - name: X
       weight: 5
-      url: "https://twitter.com/beingautistic"
+      url: "https://www.x.com/beingautistic"
       params:
         icon: x-twitter
 
@@ -47,8 +47,8 @@ params:
       path: assets/theme/ba-logo.svg
       dark: assets/theme/ba-logo-dark.svg
       link: /
-      width: 50
-      height: 50
+      width: 100
+      height: 100
 
   footer:
     displayCopyright: true
