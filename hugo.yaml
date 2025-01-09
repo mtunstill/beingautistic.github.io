@@ -1,5 +1,7 @@
 # Hugo configuration file
 title: BeingAutistic
+sidebar:
+  exclude: true
 
 # import hextra as module
 module:
@@ -18,23 +20,24 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
-    - name: Search
-      weight: 3
-      params:
-        type: search
-    - name: GitHub
-      weight: 4
-      url: "https://github.com/mtunstill"
-      params:
-        icon: github
+    # NOTE: LEAVE FOR FUTURE (09/01/2025)
+    # - name: Docs
+    #   pageRef: /docs
+    #   weight: 1
+    # - name: About
+    #   pageRef: /about
+    #   weight: 2
+    # - name: Search
+    #   weight: 3
+    #   params:
+    #     type: search
+    # - name: GitHub
+    #   weight: 4
+    #   url: "https://github.com/mtunstill"
+    #   params:
+    #     icon: github
     - name: X
-      weight: 5
+      weight: 1
       url: "https://www.x.com/beingautistic"
       params:
         icon: x-twitter
