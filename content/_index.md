@@ -2,6 +2,7 @@
 title: BeingAutistic
 toc: true
 ---
+<img src="assets/theme/ba-logo.svg" width="300" height="300">
 
 This is the landing page.
 
