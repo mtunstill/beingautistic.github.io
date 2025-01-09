@@ -47,8 +47,8 @@ params:
       path: assets/theme/ba-logo.svg
       dark: assets/theme/ba-logo-dark.svg
       link: /
-      width: 100
-      height: 100
+      width: 75
+      height: 75
 
   footer:
     displayCopyright: true
