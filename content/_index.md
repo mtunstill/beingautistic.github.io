@@ -1,6 +1,6 @@
 ---
 title: BeingAutistic
-toc: true
+toc: false
 ---
 <img src="assets/theme/ba-logo.svg" width="300" height="300">
 
