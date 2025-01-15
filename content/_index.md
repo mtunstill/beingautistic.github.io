@@ -19,16 +19,25 @@ Hello. You have reached a website that really is ambitious but slow to take off.
 
 Here's what will likely happen...
 
-| *1) Some sort of real-time thought<br>dump of current affairs* | <iframe src="https://giphy.com/embed/WsNbxuFkLi3IuGI9NU" width="300" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-nbc-the-office-tv-WsNbxuFkLi3IuGI9NU"></a></p>
+| *1) Some sort of real-time thought<br>dump of current affairs* | <iframe src="https://giphy.com/embed/WsNbxuFkLi3IuGI9NU" width="300" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-nbc-the-office-tv-WsNbxuFkLi3IuGI9NU"></a></p> |
 | --- | --- |
-| > | Does this table merge? |
 
-I don't want a structured blog anymore. But somewhere to write down 500 word*ish* pieces that indicate where my head is at on a topic.
+I don't want a structured blog anymore. But somewhere to write down 500 word*ish* pieces that indicate where my head is at on a topic. Whenever. Wherever. Weekly? Maybe.
 
-| *2) A place to challenge autism, neurodiveristy<br> and whatever else in society.* | <img src="assets/images/person-covered-in-autism-puzzle-grok2ai.jpeg" width="250"> |
------------- | -------------
+| *2) A place to challenge autism, neurodiveristy and whatever else in society.* | <img src="assets/images/person-covered-in-autism-puzzle-grok2ai.jpeg" width="300"> |
+| --- | --- |
 
-### *2) A place to challenge autism, neurodiveristy and whatever else in society.*
+Neurodiversity as a...
 
-<img src="assets/images/person-covered-in-autism-puzzle-grok2ai.jpeg" width="500">
-> GrokAI generated image - "generate me an image that represents autism" > "apply the image on a person"
+- concept.
+- activist movement.
+- medal to tell people you have **SUPER POWERS**.
+- set of solutions sold to you by human resources.
+
+Sucks. Balls.
+
+It assumes lots of things about Autism and its related conditions (as the central pillar) are constant. Can be solved by some magical actions and by worse virtue asks people to accomdate without negotiation. Hence individuals with questionable claims of diagnosis asking for no demands on them.
+
+Autism is far from constant. In reality, Autism describes someone who is stuck or attracted to constants (in the ordered part of the brain) in an inconsistent, incoherent manor. Much detached from the social norms of the everyday person.
+
+Without giving too much away here, I want to put neurodiversity away. Sent down the proverbial well and giving the DSM-IV definitions a new spin. Asperger's needs to come back as a term/concept.
