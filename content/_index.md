@@ -24,7 +24,7 @@ Here's what will likely happen...
 
 I don't want a structured blog anymore. But somewhere to write down 500 word*ish* pieces that indicate where my head is at on a topic. Whenever. Wherever. Weekly? Maybe.
 
-| *2) A place to challenge autism, neurodiveristy and whatever else in society.* | <img src="assets/images/person-covered-in-autism-puzzle-grok2ai.jpeg" width="300"> |
+| *2) A place to challenge autism, neurodiveristy and whatever else in society.* | <img src="assets/images/person-covered-in-autism-puzzle-grok2ai.jpeg" width="300"> <br><sup>GrokAI generated image - "generate me an image that represents autism" > "apply the image on a person"</sup> |
 | --- | --- |
 
 Neurodiversity as a...
