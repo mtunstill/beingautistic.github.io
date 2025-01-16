@@ -34,7 +34,7 @@ Neurodiversity as a...
 - medal to tell people you have **SUPER POWERS**.
 - set of solutions sold to you by human resources.
 
-Sucks. Balls.
+**Sucks. Balls.**
 
 It assumes lots of things about Autism and its related conditions (as the central pillar) are constant. Can be solved by some magical actions and by worse virtue asks people to accomdate without negotiation. Hence individuals with questionable claims of diagnosis asking for no demands on them.
 
